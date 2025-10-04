@@ -14,14 +14,14 @@ body {
   flex-direction: column;
   background: #da1a5a;
   color: #000;
-  gap: 20px;
+  gap: 0;
 }
 
 header {
   background: #da1a5a;
   color: #000;
   text-align: center;
-  padding: 20px 10px;
+  padding: 0;
   min-height: 80px;
   display: flex;
   align-items: center;
@@ -109,7 +109,7 @@ footer a {
 
 .conteudo-jogo {
   flex: 1;
-  padding: 30px 40px;
+  padding: 20px 40px;
   background: #f9dfe7;
   border-radius: 10px;
   overflow-y: auto;
